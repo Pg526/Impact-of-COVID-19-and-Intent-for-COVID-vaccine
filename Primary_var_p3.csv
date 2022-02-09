@@ -1,0 +1,205 @@
+﻿W22-27-Q #,Primary Q,Secondary Q,Secondary Q of,Variable,Question Category
+21a,1,0,,FEWRTRIPS,"COVID-19 prevention behaviors (daily activities, transportation)"
+21b,1,0,,FEWRTRANS,"COVID-19 prevention behaviors (daily activities, transportation)"
+21c,1,0,,PLNDTRIPS,"COVID-19 prevention behaviors (daily activities, transportation)"
+1,1,0,,TBIRTH_YEAR,Demographic
+2,1,0,,EGENDER,Demographic
+5,1,0,,EEDUC,Demographic
+6,1,0,,MS,Demographic
+7,1,0,,THHLD_NUMPER,Demographic
+8,1,0,,THHLD_NUMKID,Demographic
+50,1,0,,INCOME,Demographic
+-,1,0,,EST_ST,Demographic
+-,1,0,,EST_MSA,Demographic
+-,1,0,,REGION,Demographic
+-,1,0,,WEEK,Demographic
+Recode of 3,1,0,,RHISPANIC,Demographic
+Recode of 4,1,0,,RRACE,Demographic
+Recode of 7 and 8,1,0,,THHLD_NUMADLT,Demographic
+42,0,1,Q8,ENROLL1,Education Disruptions
+42,0,1,Q8,ENROLL2,Education Disruptions
+42,0,1,Q8,ENROLL3,Education Disruptions
+43,0,1,Q42,TEACH1,Education Disruptions
+43,0,1,Q42,TEACH2,Education Disruptions
+43,0,1,Q42,TEACH3,Education Disruptions
+43,0,1,Q42,TEACH4,Education Disruptions
+43,0,1,Q42,TEACH5,Education Disruptions
+44,0,1,Q42,COMPAVAIL,Education Disruptions
+45,0,1,"Q42, Q44",COMP1,Education Disruptions
+45,0,1,"Q42, Q44",COMP2,Education Disruptions
+45,0,1,"Q42, Q44",COMP3,Education Disruptions
+46,0,1,Q42,INTRNTAVAIL,Education Disruptions
+47,0,1,"Q42, Q46",INTRNT1,Education Disruptions
+47,0,1,"Q42, Q46",INTRNT2,Education Disruptions
+47,0,1,"Q42, Q46",INTRNT3,Education Disruptions
+47a,0,1,Q42,SCHLHRS,Education Disruptions
+48a,0,1,Q42,TSTDY_HRS,Education Disruptions
+48b,0,1,Q42,TCH_HRS,Education Disruptions
+QPS1,1,0,,TNUM_PS,Education Disruptions
+QPS2,0,1,QPS1,PSPLANS1,Education Disruptions
+QPS2,0,1,QPS1,PSPLANS2,Education Disruptions
+QPS2,0,1,QPS1,PSPLANS3,Education Disruptions
+QPS2,0,1,QPS1,PSPLANS4,Education Disruptions
+QPS2,0,1,QPS1,PSPLANS5,Education Disruptions
+QPS2,0,1,QPS1,PSPLANS6,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG1,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG2,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG3,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG4,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG5,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG6,Education Disruptions
+QPS3,0,1,QPS1,PSCHNG7,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG1,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG2,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG3,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG4,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG5,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG6,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG7,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG8,Education Disruptions
+QPS4,0,1,"QPS1, QPS3",PSWHYCHG9,Education Disruptions
+9,1,0,,WRKLOSS,Employment
+10,1,0,,EXPCTLOSS,Employment
+11,1,0,,ANYWORK,Employment
+12,0,1,Q11 = 1,KINDWORK,Employment
+13,0,1,Q11 = 2,RSNNOWRK,Employment
+13a,1,0,,TW_START,Employment
+14a,1,0,,UI_APPLY,Employment
+14b,0,1,Q14a = 1,UI_RECV,Employment
+24,1,0,,CURFOODSUF,Food Sufficiency & Food Security
+25,0,1,Q24,FOODSUFRSN1,Food Sufficiency & Food Security
+25,0,1,Q24,FOODSUFRSN2,Food Sufficiency & Food Security
+25,0,1,Q24,FOODSUFRSN3,Food Sufficiency & Food Security
+25,0,1,Q24,FOODSUFRSN4,Food Sufficiency & Food Security
+25,0,1,Q24,FOODSUFRSN5,Food Sufficiency & Food Security
+26,1,0,,FREEFOOD,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE1,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE2,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE3,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE4,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE5,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE6,Food Sufficiency & Food Security
+27,0,1,Q26,WHEREFREE7,Food Sufficiency & Food Security
+28,1,0,,TSPNDFOOD,Food Sufficiency & Food Security
+29,1,0,,TSPNDPRPD,Food Sufficiency & Food Security
+24a,0,1,"Q24, Q8",CHILDFOOD,Food Sufficiency & Food Security
+27a,1,0,,SNAP_YN,Food Sufficiency & Food Security
+36,1,0,,HLTHINS1,Health Insurance & Health Access
+36,1,0,,HLTHINS2,Health Insurance & Health Access
+36,1,0,,HLTHINS3,Health Insurance & Health Access
+36,1,0,,HLTHINS4,Health Insurance & Health Access
+36,1,0,,HLTHINS5,Health Insurance & Health Access
+36,1,0,,HLTHINS6,Health Insurance & Health Access
+36,1,0,,HLTHINS7,Health Insurance & Health Access
+36,1,0,,HLTHINS8,Health Insurance & Health Access
+37,1,0,,DELAY,Health Insurance & Health Access
+38,1,0,,NOTGET,Health Insurance & Health Access
+-,1,0,,PRIVHLTH,Health Insurance & Health Access
+-,1,0,,PUBHLTH,Health Insurance & Health Access
+39,1,0,,TENURE,Housing
+41,0,1,Q39,MORTCONF,Housing
+39a,1,0,,LIVQTR,Housing
+40b,0,1,Q39,RENTCUR,Housing
+40c,0,1,Q39,MORTCUR,Housing
+41a,0,1,Q40b,EVICT,Housing
+41b,0,1,Q40c,FORCLOSE,Housing
+-,1,0,,ABIRTH_YEAR,Not relevant
+-,1,0,,AGENDER,Not relevant
+-,1,0,,AHISPANIC,Not relevant
+-,1,0,,ARACE,Not relevant
+-,1,0,,AEDUC,Not relevant
+-,1,0,,AHHLD_NUMPER,Not relevant
+-,1,0,,AHHLD_NUMKID,Not relevant
+-,?,,,PWEIGHT,Not relevant
+-,?,,,HWEIGHT,Not relevant
+-,?,,,SCRAM,Not relevant
+32,1,0,,ANXIOUS,Physical & Mental Wellness
+33,1,0,,WORRY,Physical & Mental Wellness
+34,1,0,,INTEREST,Physical & Mental Wellness
+35,1,0,,DOWN,Physical & Mental Wellness
+38a,1,0,,PRESCRIPT,Physical & Mental Wellness
+38b,1,0,,MH_SVCS,Physical & Mental Wellness
+38c,1,0,,MH_NOTGET,Physical & Mental Wellness
+14d,1,0,,SSA_RECV,Social Security Benefits
+14e,1,0,,SSA_APPLY,Social Security Benefits
+14f,0,1,Q14e,SSAPGM1,Social Security Benefits
+14f,0,1,Q14e,SSAPGM2,Social Security Benefits
+14f,0,1,Q14e,SSAPGM3,Social Security Benefits
+14f,0,1,Q14e,SSAPGM4,Social Security Benefits
+14f,0,1,Q14e,SSAPGM5,Social Security Benefits
+14g,0,1,"Q14e, Q14d",SSALIKELY,Social Security Benefits
+14h,0,1,Q14g,SSAEXPCT1,Social Security Benefits
+14h,0,1,Q14g,SSAEXPCT2,Social Security Benefits
+14h,0,1,Q14g,SSAEXPCT3,Social Security Benefits
+14h,0,1,Q14g,SSAEXPCT4,Social Security Benefits
+14h,0,1,Q14g,SSAEXPCT5,Social Security Benefits
+14i,0,1,"Q14e, Q14d",SSADECISN,Social Security Benefits
+15,1,0,,EIP,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND1,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND2,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND3,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND4,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND5,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND6,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND7,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND8,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND9,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND10,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND11,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND12,Spending & Economic Impact Payments
+19,0,1,Q15,EIPSPND13,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC1,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC2,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC3,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC4,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC5,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC6,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC7,Spending & Economic Impact Payments
+20,1,0,,SPNDSRC8,Spending & Economic Impact Payments
+19a,1,0,,EXPNS_DIF,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW1,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW2,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW3,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW4,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW5,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW6,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW7,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW8,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW9,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW10,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW11,Spending & Economic Impact Payments
+19b,1,0,,CHNGHOW12,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD1,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD2,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD3,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD4,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD5,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD6,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD7,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD8,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD9,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD10,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD11,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD12,Spending & Economic Impact Payments
+19c,0,1,Q19b,WHYCHNGD13,Spending & Economic Impact Payments
+QV1,1,0,,RECVDVACC,Vaccination Intention
+QV2,0,1,QV1 (1),DOSES,Vaccination Intention
+QV3,0,1,QV1 (2),GETVACC,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT1,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT2,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT3,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT4,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT5,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT6,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT7,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT8,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT9,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT10,Vaccination Intention
+QV4,0,1,"QV2, QV3",WHYNOT11,Vaccination Intention
+QV5,0,1,QV4 (3),WHYNOTB1,Vaccination Intention
+QV5,0,1,QV4 (3),WHYNOTB2,Vaccination Intention
+QV5,0,1,QV4 (3),WHYNOTB3,Vaccination Intention
+QV5,0,1,QV4 (3),WHYNOTB4,Vaccination Intention
+QV5,0,1,QV4 (3),WHYNOTB5,Vaccination Intention
+QV5,0,1,QV4 (3),WHYNOTB6,Vaccination Intention
+QV6,0,1,QV4 (3),HADCOVID,Vaccination Intention
